@@ -1,0 +1,29 @@
+Log start : Sun Oct 19 19:39:40 2014
+
+Current Directory : C:\Program Files\DragonGunz V2
+19:39:40:392   [APP] OS version : Professional Service Pack 1 (Build 7601)
+19:39:41:128   [APP] Window created successfully.
+19:39:43:318   [ZUpdate] Create.
+19:39:43:318   [ZFileTransfer] Create.
+19:39:43:318   [ZFileTransfer] Create successfully complete.
+19:39:43:318   [ZFileTransfer] Open connection.
+19:39:43:318   [ZFileTransfer] Open connection successfully complete.
+19:39:43:328   [ZFileTransfer] Change directory.
+19:39:43:328   [ZFileTransfer] Change directory successfully complete.
+19:39:43:328   [ZUpdate] Create successfully compete.
+19:39:43:328   [APP] Download patch info file
+19:39:43:338   [ZUpdate] Start update.
+19:39:43:338   [ZFileTransfer] Download file : ./patch.xml  to  ./patch.xml
+19:39:43:488   [ZFileTransfer] Download successfully complete.
+19:39:43:488   [ZUpdate] Get update info.
+19:39:43:488   [ZUpdate] Get update info successfully complete.
+19:39:43:498   [ZUpdate] Check valid from patch list.
+19:39:48:944   [ZUpdate] Check valid from patch list successfully complete.
+19:39:48:954   [ZUpdate] + Total patch file count : 0
+19:39:48:954   [ZUpdate] + Total patch file size : 0 bytes
+19:40:00:479   [ZUpdate] Destroy.
+19:40:00:482   [ZFileTransfer] Destroy.
+19:40:00:484   [ZFileTransfer] Close connection.
+19:40:00:487   [ZFileTransfer] Close connection successfully complete.
+19:40:00:489   [ZFileTransfer] Destroy successfly complete.
+19:40:00:492   [ZUpdate] Destroy successfully complete.

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <!-- -  category
+            default = 0 
+            0 - ??
+            1 - ??? 
+            2 - ?? 
+            3 - ??? 
+            4 - ??? 
+            5 - ??
+            6 - ??
+            7 - ??
+    -->
+    <!-- MSG??? id? ??? ???? ??? ??? ??? ?????. -->
+    
+<TIPS category="0">
+    <!-- STATIC TIPS -->
+	<MSG>Cuidado, SWAP é proibido, não faça SWAP, caso algum GM pegue, você será resetado na mesma hora.</MSG>
+	<MSG>Dragon Gamerz é um jogo de ação em que você precisa testar seus limites.</MSG>
+	<MSG>Aperte F11 para começar a gravar uma partida. Pare de gravar, apertando F11 novamente.</MSG>
+	<MSG>Dragon Gamerz, sua diversão começa aqui, jogue e chame seus amigos.</MSG>
+	<MSG>Cuidado, SWAP é proibido, não faça SWAP, caso algum GM pegue, você será resetado na mesma hora.</MSG>
+	<MSG>Dragon Gamerz Doação, donate e ajude nosso servidor a ficar sempre online.</MSG>
+	<MSG>Em uma Guerra de Clãs você ganha 1,5X a Exp. normal.</MSG>
+	<MSG>Você já jogou uma Guerra de Clãs? Então chame seus amigos e jogue agora.</MSG>
+	<MSG>Cuidado, SWAP é proibido, não faça SWAP, caso algum GM pegue, você será resetado na mesma hora.</MSG>
+</TIPS>    
+
+<!-- ??? -->
+<TIPS category="4">
+<!--	<MSG id="1">Aperte F1 enquanto estiver no jogo, para ver a descrição das teclas.</MSG> -->
+</TIPS>
+
+</XML>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="channel">
+	<DEFAULTCHANNELNAME name="STR:CHANNEL_DEFAULT_NAME"/>
+	<DEFAULTRULENAME name="elite"/>
+
+      <CHANNEL name="[DG] Servidor Geral 1" maxplayers="500" rule="elite"/>
+      <CHANNEL name="[DG] Servidor Geral 2" maxplayers="500" rule="elite"/>
+      <CHANNEL name="[DG] Servidor de Treinamento" maxplayers="500" rule="elite"/>
+      <CHANNEL name="[DG] Servidor de Eventos" maxplayers="100" rule="elite"/>
+      <CHANNEL name="[DG] Servidor STAFF" maxplayers="5" rule="elite" levelmin="2" levelmax="1" /> 
+</XML>

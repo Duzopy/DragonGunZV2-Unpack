@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" ?>
+<XML>
+	<XMLHEADER>version="1.0"</XMLHEADER>
+
+	<SKIN>Default</SKIN>
+
+	<DEFFONT>Comic Sans MS</DEFFONT>
+
+	<IME>false</IME>
+
+	<BAREPORT>
+		<ADDR>www.battlearena.com</ADDR>
+		<DIR>incoming/gunz_US</DIR>
+	</BAREPORT>
+
+	<EMBLEM_URL>http://drg.zapto.org:80/dragon/</EMBLEM_URL>
+	<TEMBLEM_URL>http://drg.zapto.org:80/dragon/</TEMBLEM_URL>
+
+	<CASHSHOP_URL>http://drg.zapto.org</CASHSHOP_URL>
+
+	<HOMEPAGE>
+	    <URL>http://drg.zapto.org</URL>
+	    <TITLE>DragonGunZ - WebSite</TITLE>
+	</HOMEPAGE>
+
+	<LOCATORLIST>
+		<LOCATOR id="1" IP="drg.zapto.org" />
+		<LOCATOR id="2" IP="drg.zapto.org" />
+	</LOCATORLIST>
+
+	<TLOCATORLIST>
+		<LOCATOR id="1" IP="drg.zapto.org" />
+		<LOCATOR id="2" IP="drg.zapto.org" />
+	</TLOCATORLIST>
+</XML>
